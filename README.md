@@ -13,3 +13,5 @@ $ pip install speech_recognition
 $ pip install PyAudio
 
 $ pip install setuptools
+
+# 3. Executar o código 
